@@ -7,5 +7,5 @@ seda = gTTS(matn)
 # if seda:.save == x.mp3:
 #     seda
 
-save = input("name morede nazar baraye zakhire seda ra elam namaeed: ")
+save = input("name morede nazar ba pasvand .mp3 baraye zakhire seda ra elam namaeed: ")
 seda.save(save)
